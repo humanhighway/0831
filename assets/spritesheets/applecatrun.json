@@ -1,0 +1,71 @@
+{"frames": {
+
+"a1.tiff":
+{
+	"frame": {"x":350,"y":1,"w":71,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":71,"h":65},
+	"sourceSize": {"w":76,"h":73}
+},
+"a2.tiff":
+{
+	"frame": {"x":276,"y":1,"w":72,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":72,"h":65},
+	"sourceSize": {"w":76,"h":73}
+},
+"a3.tiff":
+{
+	"frame": {"x":1,"y":1,"w":72,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":72,"h":70},
+	"sourceSize": {"w":76,"h":73}
+},
+"a4.tiff":
+{
+	"frame": {"x":142,"y":1,"w":67,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":67,"h":71},
+	"sourceSize": {"w":76,"h":73}
+},
+"a5.tiff":
+{
+	"frame": {"x":215,"y":1,"w":59,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":59,"h":67},
+	"sourceSize": {"w":76,"h":73}
+},
+"a6.tiff":
+{
+	"frame": {"x":423,"y":1,"w":57,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":57,"h":65},
+	"sourceSize": {"w":76,"h":73}
+},
+"a7.tiff":
+{
+	"frame": {"x":75,"y":1,"w":65,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":65,"h":70},
+	"sourceSize": {"w":76,"h":73}
+}},
+"animations": {
+	"a": ["a1.tiff","a2.tiff","a3.tiff","a4.tiff","a5.tiff","a6.tiff","a7.tiff"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "applecatrun.png",
+	"format": "RGBA8888",
+	"size": {"w":481,"h":72},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:297dc1b45eeffcfee38aefe6afe69fb6:cbc30fa7f66f6deadc80646afdaaad49:210dfb1b434fe3bb294ac2e8e0581a6e$"
+}
+}

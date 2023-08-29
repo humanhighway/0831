@@ -1,0 +1,71 @@
+{"frames": {
+
+"Bananarun-1.png":
+{
+	"frame": {"x":914,"y":1,"w":229,"h":567},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":28,"w":229,"h":567},
+	"sourceSize": {"w":273,"h":595}
+},
+"Bananarun-2.png":
+{
+	"frame": {"x":479,"y":1,"w":216,"h":579},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":579},
+	"sourceSize": {"w":227,"h":579}
+},
+"Bananarun-3.png":
+{
+	"frame": {"x":697,"y":1,"w":215,"h":579},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":579},
+	"sourceSize": {"w":215,"h":579}
+},
+"Bananarun-4.png":
+{
+	"frame": {"x":1,"y":582,"w":227,"h":567},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":227,"h":567},
+	"sourceSize": {"w":227,"h":579}
+},
+"Bananarun-5.png":
+{
+	"frame": {"x":1,"y":1,"w":239,"h":579},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":579},
+	"sourceSize": {"w":239,"h":579}
+},
+"Bananarun-6.png":
+{
+	"frame": {"x":242,"y":1,"w":235,"h":579},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":579},
+	"sourceSize": {"w":235,"h":579}
+},
+"Bananarun-7.png":
+{
+	"frame": {"x":570,"y":582,"w":225,"h":565},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":14,"w":225,"h":565},
+	"sourceSize": {"w":235,"h":579}
+}},
+"animations": {
+	"Bananarun": ["Bananarun-1.png","Bananarun-2.png","Bananarun-3.png","Bananarun-4.png","Bananarun-5.png","Bananarun-6.png","Bananarun-7.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "bananacatrun.png",
+	"format": "RGBA8888",
+	"size": {"w":1144,"h":810},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:111a288871bd083d715e342bd7c94762:99699d3e234457ec65b360193c1216b5:4b431fe3cce454280c123ea3435aefcd$"
+}
+}
